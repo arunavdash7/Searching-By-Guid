@@ -5,7 +5,7 @@ using Microsoft.Xrm.Sdk.Query;
 using System;
 using System.Linq;
 
-namespace RYR.QuickFindManipulate
+namespace SerachByGuid
 {
     public class QuickFindPlugin : IPlugin
     {
